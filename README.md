@@ -5,7 +5,7 @@ An advanced custom kernel for the **Samsung Galaxy S23 FE**, powered by **Kernel
 <p align="center">
   <img src="https://img.shields.io/badge/Device-Galaxy%20S23%20FE-blue.svg">
   <img src="https://img.shields.io/badge/Kernel-Android%2012L%20|%205.10-green.svg">
-  <img src="https://img.shields.io/badge/KernelSU%2040119-purple.svg">
+  <img src="https://img.shields.io/badge/KernelSU%20-purple.svg">
   <img src="https://img.shields.io/badge/SUSFS-2.0.0-red.svg">
   <img src="https://img.shields.io/badge/Maintainer-gigaastral-black.svg">
 </p>

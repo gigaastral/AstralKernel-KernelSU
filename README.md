@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gigaastral/AstralKernel-KernelSU/main/res/AstralKernel-res.png" alt="AstralKernel Banner" width="80%">
+</p>
+
 # 🌌 AstralKernel-KernelSU — Galaxy S23 FE
 
 An advanced custom kernel for the **Samsung Galaxy S23 FE**, powered by **KernelSU** and **SUSFS 2.0**.
